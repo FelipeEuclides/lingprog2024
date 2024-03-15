@@ -295,7 +295,7 @@ void q20() {
     printf("Valor em reais (R$): %.2f\n", valorReal);
 }
 int main() {
-    // Aqui você pode chamar qualquer uma das funções, por exemplo:
-    q20();
+    q03();
+
     return EXIT_SUCCESS;
 }
